@@ -8,11 +8,11 @@
 
 All sources comes from the websites below:
 
-https://genshin.gg/
+    - https://genshin.gg/
 
-https://game8.co/games/Genshin-Impact
+    - https://game8.co/games/Genshin-Impact
 
-https://gamewith.net/genshin-impact/
+    - https://gamewith.net/genshin-impact/
 
 
 This code may undergo future updates as Genshin Impact updates.
