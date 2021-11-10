@@ -16,3 +16,5 @@ All sources comes from the websites below:
 
 
 This code may undergo future updates as Genshin Impact updates.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
