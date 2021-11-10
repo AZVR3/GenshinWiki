@@ -6,6 +6,7 @@
 <genshinCharacters.txt> is a file that was used to check which characters are in Genshin Impact in order to code more efficiently. 
 
 All sources comes from the websites below:
+
 https://genshin.gg/
 
 https://game8.co/games/Genshin-Impact
