@@ -20,11 +20,13 @@ This code may undergo future updates as Genshin Impact updates.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ※Instruction※:
-1. Download the code by pressing on the [Code ↓] and pressing <Download ZIP>.
-2. Unzip the file and leave the file as it is for now.
-3. Open your IDE that can run python3
-    - The IDE that I personally use is PyCharm
-       - It can be downloaded in: https://www.jetbrains.com/pycharm/download/#section=windows
-4. Make sure your python3 interpreter is at its latest by downloading the lastest python version
-   - You can download the latest python in: https://www.python.org/downloads/
-5. Run your code and make sure that <utility_class.py> is linked with <main.py> in order to have the code working properly.
+   1. Download the code by pressing on the [Code ↓] and pressing <Download ZIP>.
+   2. Unzip the file and leave the file as it is for now.
+   3. Open your IDE that can run python3
+       - The IDE that I personally use is PyCharm
+          - It can be downloaded in: https://www.jetbrains.com/pycharm/download/#section=windows
+   4. Make sure your python3 interpreter is at its latest by downloading the lastest python version
+      - You can download the latest python in: https://www.python.org/downloads/
+   5. Run your code and make sure that <utility_class.py> is linked with <main.py> in order to have the code working properly.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
