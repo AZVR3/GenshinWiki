@@ -1,5 +1,7 @@
 # InformativeChatbot-GenshinImpact
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <main.py> is the main file of what you will need in order to run the file
    - <utility.py> is an essential file that is needed for this program to work as the <main.py> imports the information from <utility.py>
 
