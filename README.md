@@ -19,4 +19,12 @@ Updates are to be expected of this program when the game keeps updating.<br/>
    
 ------------------------------------------------------------------------------------
 
+Credits:
+Genshin.gg
+ - https://genshin.gg/
+Game8
+ - https://game8.co/games/Genshin-Impact
+Gamewith.net
+ - https://gamewith.net/genshin-impact/
+
 Unfortunately, as of now, there is no Mac version of the executable file as making a DMG file through a windows computer directly is impossible without a third-party app.
